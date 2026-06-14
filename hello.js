@@ -1,7 +1,7 @@
-// console.log("Hello, world")
-// console.log("Mera name  Sidharth hai")
-// console.log(2 + 3)
-// console.log("")
+console.log("Hello, world")
+console.log("Mera name  Sidharth hai")
+console.log(2 + 3)
+console.log("")
 
 
 // let name = "Sidharth Sharma";
@@ -104,4 +104,3 @@
 // }
 // let number1 = Number(readline.question("Number enter karo : "));
 // isEven(number1);
-
